@@ -1,1 +1,1 @@
-garrafa de agua
+garrafa de agua <vazia>
