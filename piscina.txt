@@ -1,3 +1,4 @@
 piscina olimpica
 colocando cloro
 retirando cloro
+retirando areia
